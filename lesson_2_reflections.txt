@@ -1,3 +1,9 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 I need to commit so that I can choose which files to commit and also to add a comment.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I edit files in the working directory.  I can use the staging directory to group files into a single commit - files that are logically related for a given change.
+
+
